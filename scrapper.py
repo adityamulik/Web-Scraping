@@ -55,4 +55,5 @@ def my_email():
 
     server.quit()
 
+# Function invoked to send email
 my_email()
