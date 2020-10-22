@@ -29,6 +29,6 @@ Python Version 3.8.1
   4. Create a config.json file to add username, app_password, from (Email sent from) and to (Email sent to) in the file as a json object.
   5. Once the packages are installed, the application scrapper.py can be run from the command prompt / terminal.\
      python scrapper.py
-  6. Email with the intended receipient will recieve the required information.
+  6. Email with the intended receipient who will recieve the required information.
   
 **Author: Aditya Mulik**
