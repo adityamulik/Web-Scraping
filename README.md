@@ -1,6 +1,6 @@
 # Web-Scrapping using BeautifulSoup
 
-Using Pythons most coveted modules used for Web Scrapping, this code is intended to scrape the available stock information and it's price of the Apple iPhone 11 on amazon.com which can be run using cron on linux or windows task scheduler to get the information at regular intervals on email.
+Using Pythons most coveted modules used for Web Scrapping, this code is intended to scrape the available stock information and price of the Apple iPhone 11 on amazon.com which can be run using cron on linux or windows task scheduler to get the information at regular intervals on email.
 
 **Programming Language:**
 
